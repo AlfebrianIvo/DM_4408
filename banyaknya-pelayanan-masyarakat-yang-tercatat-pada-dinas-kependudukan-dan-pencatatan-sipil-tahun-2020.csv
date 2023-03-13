@@ -1,0 +1,221 @@
+tahun,kabupaten/kota,kecamatan,jenis_pelayanan,jumlah
+2020,Kepulauan Seribu,KEP. SERIBU UTR,Kelahiran,290
+2020,Kepulauan Seribu,KEP. SERIBU SLT,Kelahiran,245
+2020,Jakarta Selatan,TEBET,Kelahiran,2685
+2020,Jakarta Selatan,SETIA BUDI,Kelahiran,1341
+2020,Jakarta Selatan,MAMPANG PRAPATAN,Kelahiran,1885
+2020,Jakarta Selatan,PASAR MINGGU,Kelahiran,3972
+2020,Jakarta Selatan,KEBAYORAN LAMA,Kelahiran,3837
+2020,Jakarta Selatan,CILANDAK,Kelahiran,2324
+2020,Jakarta Selatan,KEBAYORAN BARU,Kelahiran,1540
+2020,Jakarta Selatan,PANCORAN,Kelahiran,2088
+2020,Jakarta Selatan,JAGAKARSA,Kelahiran,4616
+2020,Jakarta Selatan,PESANGGRAHAN,Kelahiran,3343
+2020,Jakarta Timur,MATRAMAN,Kelahiran,2314
+2020,Jakarta Timur,PULO GADUNG,Kelahiran,3677
+2020,Jakarta Timur,JATINEGARA,Kelahiran,4061
+2020,Jakarta Timur,KRAMAT JATI,Kelahiran,4262
+2020,Jakarta Timur,PASAR REBO,Kelahiran,3177
+2020,Jakarta Timur,CAKUNG,Kelahiran,7992
+2020,Jakarta Timur,DUREN SAWIT,Kelahiran,5427
+2020,Jakarta Timur,MAKASAR,Kelahiran,2830
+2020,Jakarta Timur,CIRACAS,Kelahiran,4142
+2020,Jakarta Timur,CIPAYUNG,Kelahiran,3802
+2020,Jakarta Pusat,GAMBIR,Kelahiran,1036
+2020,Jakarta Pusat,SAWAH BESAR,Kelahiran,1234
+2020,Jakarta Pusat,KEMAYORAN,Kelahiran,3124
+2020,Jakarta Pusat,SENEN,Kelahiran,1546
+2020,Jakarta Pusat,CEMPAKA PUTIH,Kelahiran,1124
+2020,Jakarta Pusat,MENTENG,Kelahiran,1054
+2020,Jakarta Pusat,TANAH ABANG,Kelahiran,2093
+2020,Jakarta Pusat,JOHAR BARU,Kelahiran,1640
+2020,Jakarta Barat,CENGKARENG,Kelahiran,7013
+2020,Jakarta Barat,GROGOL PETAMBURAN,Kelahiran,2535
+2020,Jakarta Barat,TAMAN SARI,Kelahiran,1305
+2020,Jakarta Barat,TAMBORA,Kelahiran,2939
+2020,Jakarta Barat,KEBON JERUK,Kelahiran,4539
+2020,Jakarta Barat,KALI DERES,Kelahiran,5613
+2020,Jakarta Barat,PALMERAH,Kelahiran,2667
+2020,Jakarta Barat,KEMBANGAN,Kelahiran,3922
+2020,Jakarta Utara,PENJARINGAN,Kelahiran,3841
+2020,Jakarta Utara,TANJUNG PRIOK,Kelahiran,5112
+2020,Jakarta Utara,KOJA,Kelahiran,4987
+2020,Jakarta Utara,CILINCING,Kelahiran,6668
+2020,Jakarta Utara,PADEMANGAN,Kelahiran,1852
+2020,Jakarta Utara,KELAPA GADING,Kelahiran,1467
+2020,Kepulauan Seribu,KEP. SERIBU UTR,Kematian,146
+2020,Kepulauan Seribu,KEP. SERIBU SLT,Kematian,113
+2020,Jakarta Selatan,TEBET,Kematian,1953
+2020,Jakarta Selatan,SETIA BUDI,Kematian,863
+2020,Jakarta Selatan,MAMPANG PRAPATAN,Kematian,955
+2020,Jakarta Selatan,PASAR MINGGU,Kematian,2084
+2020,Jakarta Selatan,KEBAYORAN LAMA,Kematian,2163
+2020,Jakarta Selatan,CILANDAK,Kematian,1259
+2020,Jakarta Selatan,KEBAYORAN BARU,Kematian,903
+2020,Jakarta Selatan,PANCORAN,Kematian,1158
+2020,Jakarta Selatan,JAGAKARSA,Kematian,2034
+2020,Jakarta Selatan,PESANGGRAHAN,Kematian,1650
+2020,Jakarta Timur,MATRAMAN,Kematian,1600
+2020,Jakarta Timur,PULO GADUNG,Kematian,2406
+2020,Jakarta Timur,JATINEGARA,Kematian,2744
+2020,Jakarta Timur,KRAMAT JATI,Kematian,2142
+2020,Jakarta Timur,PASAR REBO,Kematian,1410
+2020,Jakarta Timur,CAKUNG,Kematian,3393
+2020,Jakarta Timur,DUREN SAWIT,Kematian,2925
+2020,Jakarta Timur,MAKASAR,Kematian,1515
+2020,Jakarta Timur,CIRACAS,Kematian,1967
+2020,Jakarta Timur,CIPAYUNG,Kematian,1575
+2020,Jakarta Pusat,GAMBIR,Kematian,887
+2020,Jakarta Pusat,SAWAH BESAR,Kematian,986
+2020,Jakarta Pusat,KEMAYORAN,Kematian,2329
+2020,Jakarta Pusat,SENEN,Kematian,1066
+2020,Jakarta Pusat,CEMPAKA PUTIH,Kematian,856
+2020,Jakarta Pusat,MENTENG,Kematian,788
+2020,Jakarta Pusat,TANAH ABANG,Kematian,1381
+2020,Jakarta Pusat,JOHAR BARU,Kematian,1294
+2020,Jakarta Barat,CENGKARENG,Kematian,2979
+2020,Jakarta Barat,GROGOL PETAMBURAN,Kematian,1713
+2020,Jakarta Barat,TAMAN SARI,Kematian,1124
+2020,Jakarta Barat,TAMBORA,Kematian,1903
+2020,Jakarta Barat,KEBON JERUK,Kematian,2179
+2020,Jakarta Barat,KALI DERES,Kematian,2303
+2020,Jakarta Barat,PALMERAH,Kematian,1792
+2020,Jakarta Barat,KEMBANGAN,Kematian,1588
+2020,Jakarta Utara,PENJARINGAN,Kematian,1961
+2020,Jakarta Utara,TANJUNG PRIOK,Kematian,2774
+2020,Jakarta Utara,KOJA,Kematian,2352
+2020,Jakarta Utara,CILINCING,Kematian,3090
+2020,Jakarta Utara,PADEMANGAN,Kematian,1136
+2020,Jakarta Utara,KELAPA GADING,Kematian,871
+2020,Kepulauan Seribu,KEP. SERIBU UTR,Perkawinan,0
+2020,Kepulauan Seribu,KEP. SERIBU SLT,Perkawinan,0
+2020,Jakarta Selatan,TEBET,Perkawinan,0
+2020,Jakarta Selatan,SETIA BUDI,Perkawinan,0
+2020,Jakarta Selatan,MAMPANG PRAPATAN,Perkawinan,0
+2020,Jakarta Selatan,PASAR MINGGU,Perkawinan,0
+2020,Jakarta Selatan,KEBAYORAN LAMA,Perkawinan,0
+2020,Jakarta Selatan,CILANDAK,Perkawinan,0
+2020,Jakarta Selatan,KEBAYORAN BARU,Perkawinan,0
+2020,Jakarta Selatan,PANCORAN,Perkawinan,0
+2020,Jakarta Selatan,JAGAKARSA,Perkawinan,0
+2020,Jakarta Selatan,PESANGGRAHAN,Perkawinan,0
+2020,Jakarta Timur,MATRAMAN,Perkawinan,0
+2020,Jakarta Timur,PULO GADUNG,Perkawinan,0
+2020,Jakarta Timur,JATINEGARA,Perkawinan,0
+2020,Jakarta Timur,KRAMAT JATI,Perkawinan,0
+2020,Jakarta Timur,PASAR REBO,Perkawinan,0
+2020,Jakarta Timur,CAKUNG,Perkawinan,0
+2020,Jakarta Timur,DUREN SAWIT,Perkawinan,0
+2020,Jakarta Timur,MAKASAR,Perkawinan,0
+2020,Jakarta Timur,CIRACAS,Perkawinan,0
+2020,Jakarta Timur,CIPAYUNG,Perkawinan,0
+2020,Jakarta Pusat,GAMBIR,Perkawinan,0
+2020,Jakarta Pusat,SAWAH BESAR,Perkawinan,0
+2020,Jakarta Pusat,KEMAYORAN,Perkawinan,0
+2020,Jakarta Pusat,SENEN,Perkawinan,0
+2020,Jakarta Pusat,CEMPAKA PUTIH,Perkawinan,0
+2020,Jakarta Pusat,MENTENG,Perkawinan,0
+2020,Jakarta Pusat,TANAH ABANG,Perkawinan,0
+2020,Jakarta Pusat,JOHAR BARU,Perkawinan,0
+2020,Jakarta Barat,CENGKARENG,Perkawinan,0
+2020,Jakarta Barat,GROGOL PETAMBURAN,Perkawinan,0
+2020,Jakarta Barat,TAMAN SARI,Perkawinan,0
+2020,Jakarta Barat,TAMBORA,Perkawinan,0
+2020,Jakarta Barat,KEBON JERUK,Perkawinan,0
+2020,Jakarta Barat,KALI DERES,Perkawinan,0
+2020,Jakarta Barat,PALMERAH,Perkawinan,0
+2020,Jakarta Barat,KEMBANGAN,Perkawinan,0
+2020,Jakarta Utara,PENJARINGAN,Perkawinan,0
+2020,Jakarta Utara,TANJUNG PRIOK,Perkawinan,0
+2020,Jakarta Utara,KOJA,Perkawinan,0
+2020,Jakarta Utara,CILINCING,Perkawinan,0
+2020,Jakarta Utara,PADEMANGAN,Perkawinan,0
+2020,Jakarta Utara,KELAPA GADING,Perkawinan,0
+2020,Kepulauan Seribu,KEP. SERIBU UTR,Perceraian,0
+2020,Kepulauan Seribu,KEP. SERIBU SLT,Perceraian,0
+2020,Jakarta Selatan,TEBET,Perceraian,0
+2020,Jakarta Selatan,SETIA BUDI,Perceraian,0
+2020,Jakarta Selatan,MAMPANG PRAPATAN,Perceraian,0
+2020,Jakarta Selatan,PASAR MINGGU,Perceraian,0
+2020,Jakarta Selatan,KEBAYORAN LAMA,Perceraian,0
+2020,Jakarta Selatan,CILANDAK,Perceraian,0
+2020,Jakarta Selatan,KEBAYORAN BARU,Perceraian,0
+2020,Jakarta Selatan,PANCORAN,Perceraian,0
+2020,Jakarta Selatan,JAGAKARSA,Perceraian,0
+2020,Jakarta Selatan,PESANGGRAHAN,Perceraian,0
+2020,Jakarta Timur,MATRAMAN,Perceraian,0
+2020,Jakarta Timur,PULO GADUNG,Perceraian,0
+2020,Jakarta Timur,JATINEGARA,Perceraian,0
+2020,Jakarta Timur,KRAMAT JATI,Perceraian,0
+2020,Jakarta Timur,PASAR REBO,Perceraian,0
+2020,Jakarta Timur,CAKUNG,Perceraian,0
+2020,Jakarta Timur,DUREN SAWIT,Perceraian,0
+2020,Jakarta Timur,MAKASAR,Perceraian,0
+2020,Jakarta Timur,CIRACAS,Perceraian,0
+2020,Jakarta Timur,CIPAYUNG,Perceraian,0
+2020,Jakarta Pusat,GAMBIR,Perceraian,0
+2020,Jakarta Pusat,SAWAH BESAR,Perceraian,0
+2020,Jakarta Pusat,KEMAYORAN,Perceraian,0
+2020,Jakarta Pusat,SENEN,Perceraian,0
+2020,Jakarta Pusat,CEMPAKA PUTIH,Perceraian,0
+2020,Jakarta Pusat,MENTENG,Perceraian,0
+2020,Jakarta Pusat,TANAH ABANG,Perceraian,0
+2020,Jakarta Pusat,JOHAR BARU,Perceraian,0
+2020,Jakarta Barat,CENGKARENG,Perceraian,0
+2020,Jakarta Barat,GROGOL PETAMBURAN,Perceraian,0
+2020,Jakarta Barat,TAMAN SARI,Perceraian,0
+2020,Jakarta Barat,TAMBORA,Perceraian,0
+2020,Jakarta Barat,KEBON JERUK,Perceraian,0
+2020,Jakarta Barat,KALI DERES,Perceraian,0
+2020,Jakarta Barat,PALMERAH,Perceraian,0
+2020,Jakarta Barat,KEMBANGAN,Perceraian,0
+2020,Jakarta Utara,PENJARINGAN,Perceraian,0
+2020,Jakarta Utara,TANJUNG PRIOK,Perceraian,0
+2020,Jakarta Utara,KOJA,Perceraian,0
+2020,Jakarta Utara,CILINCING,Perceraian,0
+2020,Jakarta Utara,PADEMANGAN,Perceraian,0
+2020,Jakarta Utara,KELAPA GADING,Perceraian,0
+2020,Kepulauan Seribu,KEP. SERIBU UTR,Pengesahan Anak,0
+2020,Kepulauan Seribu,KEP. SERIBU SLT,Pengesahan Anak,0
+2020,Jakarta Selatan,TEBET,Pengesahan Anak,0
+2020,Jakarta Selatan,SETIA BUDI,Pengesahan Anak,0
+2020,Jakarta Selatan,MAMPANG PRAPATAN,Pengesahan Anak,0
+2020,Jakarta Selatan,PASAR MINGGU,Pengesahan Anak,0
+2020,Jakarta Selatan,KEBAYORAN LAMA,Pengesahan Anak,0
+2020,Jakarta Selatan,CILANDAK,Pengesahan Anak,0
+2020,Jakarta Selatan,KEBAYORAN BARU,Pengesahan Anak,0
+2020,Jakarta Selatan,PANCORAN,Pengesahan Anak,0
+2020,Jakarta Selatan,JAGAKARSA,Pengesahan Anak,0
+2020,Jakarta Selatan,PESANGGRAHAN,Pengesahan Anak,0
+2020,Jakarta Timur,MATRAMAN,Pengesahan Anak,0
+2020,Jakarta Timur,PULO GADUNG,Pengesahan Anak,0
+2020,Jakarta Timur,JATINEGARA,Pengesahan Anak,0
+2020,Jakarta Timur,KRAMAT JATI,Pengesahan Anak,0
+2020,Jakarta Timur,PASAR REBO,Pengesahan Anak,0
+2020,Jakarta Timur,CAKUNG,Pengesahan Anak,0
+2020,Jakarta Timur,DUREN SAWIT,Pengesahan Anak,0
+2020,Jakarta Timur,MAKASAR,Pengesahan Anak,0
+2020,Jakarta Timur,CIRACAS,Pengesahan Anak,0
+2020,Jakarta Timur,CIPAYUNG,Pengesahan Anak,0
+2020,Jakarta Pusat,GAMBIR,Pengesahan Anak,0
+2020,Jakarta Pusat,SAWAH BESAR,Pengesahan Anak,0
+2020,Jakarta Pusat,KEMAYORAN,Pengesahan Anak,0
+2020,Jakarta Pusat,SENEN,Pengesahan Anak,0
+2020,Jakarta Pusat,CEMPAKA PUTIH,Pengesahan Anak,0
+2020,Jakarta Pusat,MENTENG,Pengesahan Anak,0
+2020,Jakarta Pusat,TANAH ABANG,Pengesahan Anak,0
+2020,Jakarta Pusat,JOHAR BARU,Pengesahan Anak,0
+2020,Jakarta Barat,CENGKARENG,Pengesahan Anak,0
+2020,Jakarta Barat,GROGOL PETAMBURAN,Pengesahan Anak,0
+2020,Jakarta Barat,TAMAN SARI,Pengesahan Anak,0
+2020,Jakarta Barat,TAMBORA,Pengesahan Anak,0
+2020,Jakarta Barat,KEBON JERUK,Pengesahan Anak,0
+2020,Jakarta Barat,KALI DERES,Pengesahan Anak,0
+2020,Jakarta Barat,PALMERAH,Pengesahan Anak,0
+2020,Jakarta Barat,KEMBANGAN,Pengesahan Anak,0
+2020,Jakarta Utara,PENJARINGAN,Pengesahan Anak,0
+2020,Jakarta Utara,TANJUNG PRIOK,Pengesahan Anak,0
+2020,Jakarta Utara,KOJA,Pengesahan Anak,0
+2020,Jakarta Utara,CILINCING,Pengesahan Anak,0
+2020,Jakarta Utara,PADEMANGAN,Pengesahan Anak,0
+2020,Jakarta Utara,KELAPA GADING,Pengesahan Anak,0
